@@ -1,5 +1,5 @@
 name: BukkitUtils
 version: '${version}'
-main: hemok98.bukkitapi.BukkitUtils
+main: hemok98.BukkitUtils.BukkitUtils
 api-version: 1.17
 authors: [ Hemok98 ]
